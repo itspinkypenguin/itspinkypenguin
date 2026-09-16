@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Yasin 👋
 
-<!--
-**itspinkypenguin/itspinkypenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm on a journey to become a **DevOps Engineer**, exploring Linux, networking, automation, and everything in between.
 
-Here are some ideas to get you started:
+### 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Learning by building.**
+
+I believe the best way to learn is to understand the fundamentals, experiment, break things, and build them again.
+
+I'm currently strengthening my fundamentals in networking, Linux, Git, Bash, and Python while preparing to dive deeper into Ansible and Docker.
+
+### 🛠️ Technologies & Tools
+
+**Familiar with**
+
+- 🌐 Networking
+- 🐧 Linux
+- 🔧 Git
+- 🐚 Bash
+- 🐍 Python
+
+**Learning next**
+
+- ⚙️ Ansible
+- 🐳 Docker
+
+### 🔗 Connect with Me
+
+📧 Email: [ItsPinkyPenguin@gmail.com](mailto:ItsPinkyPenguin@gmail.com)
+
+💼 LinkedIn: *Coming soon*
